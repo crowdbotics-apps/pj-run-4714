@@ -1,0 +1,3 @@
+rootProject.name = 'pj_run_4714'
+
+include ':app'
